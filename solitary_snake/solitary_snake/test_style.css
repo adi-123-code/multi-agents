@@ -1,0 +1,67 @@
+.game_div{
+	float : right;
+}
+
+.div1{
+	border: 1px solid black;
+    border-radius: 10px;
+	height: 600;
+	width:  600;
+}
+
+.div2{
+	border: 1px solid black;
+	margin-top : 5;
+	height: 20;
+	width:  600;
+}
+
+.table_div{
+	#border: 1px solid black;
+	height: 700;
+	width:  400;
+	margin-left : 20px;
+}
+
+.score{
+	font-size : 20px;
+}
+
+.score_input{
+	margin-top : 5;
+	font-size : 20px;
+}
+
+.score_table_th{
+	width : 200px;
+	text-align : center;
+}
+
+.score_table_div{
+	margin:5px;
+	border : 1px solid black;
+	height    : 250px;
+	overflow-y:scroll; 
+	overflow-x:scroll;
+}
+
+.q_table_th{
+	width : 80px;
+	text-align : center;
+}
+
+.Q_table_div{
+	margin:5px;
+	border : 1px solid black;
+	height    : 450px;
+	overflow-y:scroll; 
+	overflow-x:scroll;
+}
+
+.best_score{
+	font-size : 20px;
+}
+
+.best_score_input{
+	font-size : 20px;
+}
